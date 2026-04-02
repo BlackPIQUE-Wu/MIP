@@ -11,7 +11,7 @@ ICMR 2024 Oral | Enhancing Visible-Infrared Person Re-identification with Modali
 [[arXiv](https://arxiv.org/abs/2406.12316)]
 
 ## Install
-This code is based on the [TransReID](https://github.com/damo-cv/TransReID) project. Please Refer to [README_TransReID.md](https://wurqjackey.github.io/MIP/README_TransReID.md).
+This code is based on the [TransReID](https://github.com/damo-cv/TransReID) project. Please refer to [README_TransReID.md](https://wurqjackey.github.io/MIP/README_TransReID.md).
 
 ## Usage
 ### Train
@@ -35,16 +35,13 @@ So much thanks for codebase from [TransReID](https://github.com/damo-cv/TransReI
 ## Reference
 If you find this code useful for your research, please cite our paper.
 ```
-@ARTICLE{10.1109/TCSVT.2025.3560118,
+@article{wu2025enhancing,
+  title={Enhancing visible-infrared person re-identification with modality-and instance-aware adaptation learning},
   author={Wu, Ruiqi and Jiao, Bingliang and Liu, Meng and Wang, Shining and Wang, Wenxuan and Wang, Peng},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={Enhancing Visible-Infrared Person Re-identification with Modality- and Instance-aware Adaptation Learning}, 
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Visible-Infrared Person Re-Identification;Cross-Modality Person Re-Identification;Visual Prompt Learning},
-  doi={10.1109/TCSVT.2025.3560118}}
+  publisher={IEEE}
+}
 ```
 or <br>
 ```
